@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016471861605",
+    "firebase_url": "https://mesenggerkotlin.firebaseio.com",
+    "project_id": "mesenggerkotlin",
+    "storage_bucket": "mesenggerkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016471861605:android:9fa5579c5916fa49dec98c",
+        "android_client_info": {
+          "package_name": "com.ahmad.messengerkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016471861605-uf49qkasc039t270l3sus1iktmvok2eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3QDtPte0DoBSuYceIITUw_z-yCDKrnd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016471861605-uf49qkasc039t270l3sus1iktmvok2eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
